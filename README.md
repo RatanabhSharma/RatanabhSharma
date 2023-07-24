@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ratanabh Sharma</h1>
 <h3 align="center">A passionate Electronic and Communication Engineer from India. Who love to make lifestyle easy and fun with IOT devices and Codes</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratanabhsharma&label=Profile%20views&color=0e75b6&style=flat" alt="ratanabhsharma" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratanabhsharma&label=Profile%20views&color=0e75b6&style=flat" alt="ratanabhsharma" /> </p>
-
 <img align="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
