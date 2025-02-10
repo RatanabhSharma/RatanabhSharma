@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AI/ML, DSA, EMBEDDED SYSTEM, WEB-DEV, JAVA and Electronics**
 
-- 👨‍💻 All of my projects are available at [https://ratanabhsharma.github.io/Personal-Portfoilio/](https://ratanabhsharma.github.io/Personal-Portfoilio/)
+- 👨‍💻 All of my projects are available at [https://ratanabhsharma.github.io/Personal-Portfoilio/](https://ratanabhsharmaportfolio.vercel.app/)
 
 - 💬 Ask me about **EMBEDDED SYSTEM, PYTHON, C/C++,ELECTRONICS**
 
